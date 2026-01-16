@@ -1,0 +1,25 @@
+{
+  "name": "HealthXRay AI",
+  "short_name": "HXRay",
+  "description": "World-Class AI Medical Intelligence Platform. Professional diagnostics, nutrition, and health architecture.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%232563eb'/><path d='M30 50 h40 M50 30 v40' stroke='white' stroke-width='12' stroke-linecap='round'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%232563eb'/><path d='M30 50 h40 M50 30 v40' stroke='white' stroke-width='12' stroke-linecap='round'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#f8fafc",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
